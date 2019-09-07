@@ -12,4 +12,4 @@ gem "pry"
 end
 
 group: :test do 
-gem ""
+gem "rspec"
